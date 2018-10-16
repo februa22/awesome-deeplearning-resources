@@ -59,7 +59,12 @@
 
 ### Pos-tagging
 
+- An improved neural network model for joint POS tagging and dependency parsing. ['arxiv'](https://arxiv.org/abs/1807.03955)
 - Evaluating Layers of Representation in Neural Machine Translation on Part-of-Speech and Semantic Tagging Tasks. [`arxiv`](https://arxiv.org/abs/1801.07772) [`code`](https://github.com/boknilev/nmt-repr-analysis)
+
+### Dependency Parsing
+
+- Stack-Pointer Networks for Dependency Parsing. ['arxiv'](https://arxiv.org/abs/1805.01087)
 
 ### QA
 
@@ -82,9 +87,9 @@
 
 - Achieving Human Parity on Automatic Chinese to English News Translation. [`arxiv`](https://arxiv.org/abs/1803.05567)
 - Apply Chinese Radicals Into Neural Machine Translation: Deeper Than Character Level. [`arxiv`](https://arxiv.org/abs/1805.01565)
+- A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation. ['arxiv'](https://arxiv.org/abs/1806.06957)
 - Phrase-Based & Neural Unsupervised Machine Translation. [`arxiv`](https://arxiv.org/abs/1804.07755)
 - Self-Attention with Relative Position Representations. [`arxiv`](https://arxiv.org/abs/1803.02155)
-
 
 ### Recommender Systems
 

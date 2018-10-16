@@ -146,6 +146,7 @@
 - Time Series Segmentation through Automatic Feature Learning. [`arxiv`](https://arxiv.org/abs/1801.05394)
 - Towards a Theoretical Understanding of Batch Normalization. [`arxiv`](https://arxiv.org/abs/1805.10694)
 - Tracking Network Dynamics: a review of distances and similarity metrics. [`arxiv`](https://arxiv.org/abs/1801.07351)
+- Training Tips for the Transformer Model. ['arxiv'](https://arxiv.org/abs/1804.00247)
 - Tree-CNN: A Deep Convolutional Neural Network for Lifelong Learning. [`arxiv`](https://arxiv.org/abs/1802.05800)
 - t-SNE-CUDA: GPU-Accelerated t-SNE and its Applications to Modern Data. [`arxiv`](https://arxiv.org/abs/1807.11824) [`code`](https://github.com/CannyLab/tsne-cuda)
 - Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring. [`arxiv`](https://arxiv.org/abs/1802.04633)
@@ -155,10 +156,10 @@
 - Understanding the Disharmony between Dropout and Batch Normalization by Variance Shift. [`arxiv`](https://arxiv.org/abs/1801.05134)
 - Understanding the Loss Surface of Neural Networks for Binary Classification. [`arxiv`](https://arxiv.org/abs/1803.00909)
 - Universal Deep Neural Network Compression. [`arxiv`](https://arxiv.org/abs/1802.02271)
+- Universal Transformers. ['arxiv'](https://arxiv.org/abs/1807.03819)
 - URLNet: Learning a URL Representation with Deep Learning for Malicious URL Detection. [`arxiv`](https://arxiv.org/abs/1802.03162) [`code`](https://github.com/Antimalweb/URLNet)
 - Wasserstein is all you need. [`arxiv`](https://arxiv.org/abs/1808.09663)
 - What Do We Understand About Convolutional Networks? [`arxiv`](https://arxiv.org/abs/1803.08834)
-
 
 ## Attention
 
@@ -222,7 +223,6 @@
 - Meta-Learning: A Survey. [`arxiv`](https://arxiv.org/abs/1810.03548)
 - Meta-Learning for Semi-Supervised Few-Shot Classification. [`arxiv`](https://arxiv.org/abs/1803.00676) [`code`](https://github.com/renmengye/few-shot-ssl-public)
 - Reptile: a Scalable Metalearning Algorithm. [`arxiv`](https://arxiv.org/abs/1803.02999)
-
 
 ## Optimization
 
